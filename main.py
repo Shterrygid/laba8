@@ -18,6 +18,9 @@ table.setItem(1, 0, QTableWidgetItem("Nike"))
 table.setItem(1, 1, QTableWidgetItem("30"))
 table.setItem(2, 0, QTableWidgetItem("Phuma"))
 table.setItem(2, 1, QTableWidgetItem("40"))
+table.setItem(2, 0, QTableWidgetItem("Тапки"))
+table.setItem(2, 1, QTableWidgetItem("400")) //Появмились тапки
+
 
 # Отображение таблицы
 table.show()
